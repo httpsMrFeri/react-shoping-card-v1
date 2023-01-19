@@ -47,9 +47,9 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ---
 #### shoping page
-![Screenshot 2023-01-19 151233](https://user-images.githubusercontent.com/109946641/213434128-e48ed0de-c198-47c9-b192-58d75f3a424b.png)
+![image](https://user-images.githubusercontent.com/109946641/213443885-45a25542-596b-4c7c-b799-2a7a2a5a33ed.png)
 #### cart page
-![Screenshot 2023-01-19 151335](https://user-images.githubusercontent.com/109946641/213434136-58693f9a-fe2a-4c85-835e-6232cfc2482f.png)
+![image](https://user-images.githubusercontent.com/109946641/213444083-55d10877-786d-44bc-b5be-9e39744b46c8.png)
 
 ---
 ### share with your friends:heart::fire:
